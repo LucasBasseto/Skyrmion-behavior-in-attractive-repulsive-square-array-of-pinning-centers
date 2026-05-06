@@ -1,0 +1,12 @@
+# Executáveis e objetos
+*.o
+*.mod
+skyrmion_sim
+
+# Python
+__pycache__/
+*.pyc
+
+# Dados de saída (se forem muito grandes)
+*.dat
+*.csv
